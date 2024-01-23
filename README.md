@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my journey to become a Full Stack Developer<br>🌱 I’m currently learning Node.js<br>💬 Ask me about my projects
+🔭 I’m currently working on my journey to become a Data Analyst<br>🌱 I’m currently learning Python<br>💬 Ask me about my projects
 
 
 ## 🌐 Socials:
